@@ -1,0 +1,11 @@
+﻿  Matrix.cpp
+C:\Users\Eszter\source\repos\MatrixVectorOperations\MatrixVectorOperations\Matrix.cpp(75,1): warning C4297: 'MultiplyMatrixVector': function assumed not to throw an exception but does
+C:\Users\Eszter\source\repos\MatrixVectorOperations\MatrixVectorOperations\Matrix.cpp(75,1): message : The function is extern "C" and /EHc was specified
+C:\Users\Eszter\source\repos\MatrixVectorOperations\MatrixVectorOperations\Matrix.cpp(98,1): warning C4297: 'MultiplyMatrixMatrix': function assumed not to throw an exception but does
+C:\Users\Eszter\source\repos\MatrixVectorOperations\MatrixVectorOperations\Matrix.cpp(98,1): message : The function is extern "C" and /EHc was specified
+  Vector.cpp
+  Generating Code...
+C:\Users\Eszter\source\repos\MatrixVectorOperations\MatrixVectorOperations\Vector.cpp(17): warning C4715: 'Vector::getElement': not all control paths return a value
+C:\Users\Eszter\source\repos\MatrixVectorOperations\MatrixVectorOperations\Matrix.cpp(19): warning C4715: 'Matrix::getElement': not all control paths return a value
+     Creating library C:\Users\Eszter\source\repos\MatrixVectorOperations\Debug\MatrixVectorOperations.lib and object C:\Users\Eszter\source\repos\MatrixVectorOperations\Debug\MatrixVectorOperations.exp
+  MatrixVectorOperations.vcxproj -> C:\Users\Eszter\source\repos\MatrixVectorOperations\Debug\MatrixVectorOperations.dll
