@@ -1,7 +1,7 @@
 import ctypes
 import numpy as np
 
-operators_dll = ctypes.CDLL('matrixOperations/MatrixVectorOperations/Debug/operations.dll')
+operators_dll = ctypes.CDLL('matrixOperations/MatrixVectorOperations/Debug/MatrixVectorOperations.dll')
 
 operators_dll.VectorNew.argtypes = [ctypes.c_int, ctypes.c_void_p]
 operators_dll.VectorNew.restypes = ctypes.c_void_p
